@@ -1,0 +1,14 @@
+{
+  "id": "estr",
+  "name": "Departamento de Engenharia Estruturas e Fundação",
+  "code": "ESTR",
+  "description": "Formação em estruturas, geotecnia e transportes.",
+  "management": {
+    "head": "Prof. Alberto de Oliveira",
+    "viceHead": "Profa. Elaine Toscano",
+    "secretary": "Bloco A - Sala 5001 / civil@eng.uerj.br"
+  },
+  "professors": ["Profa. Elaine Toscano", "Prof. Carlos Eduardo"],
+  "courses": ["Graduação em Engenharia Civil"],
+  "laboratories": ["Lab. de Solos", "Lab. de Estruturas"]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "dcct",
+    "name": "Engenharia Construção Civil e Transportes",
+    "code": "DCCT",
+    "icon": "Building2",
+    "description": "Formação sólida em estruturas, geotecnia, transportes e construção civil com forte inserção em grandes obras de infraestrutura.",
+    "coordinator": "Profa. Elaine Toscano (Vice-Chefe)",
+    "contactEmail": "civil@eng.uerj.br",
+    "courses": [
+        "Graduação em Engenharia Civil",
+        "Ênfase em Estruturas",
+        "Ênfase em Geotecnia"
+    ],
+    "laboratories": [
+        "Laboratório de Mecânica dos Solos",
+        "Laboratório de Estruturas",
+        "Lab. de Materiais de Construção"
+    ]
+}

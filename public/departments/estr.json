@@ -1,0 +1,13 @@
+{
+    "id": "estr",
+    "name": "Engenharia de Estruturas e Fundações",
+    "code": "ESTR",
+    "icon": "Leaf",
+    "description": "Lorem ipsum",
+    "coordinator": "Profa. ",
+    "contactEmail": "estr@eng.uerj.br",
+    "courses": [
+        "Graduação em Engenharia Civil"
+    ],
+    "laboratories": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "dein",
+    "name": "Engenharia de Produção/Industrial",
+    "code": "DEIN",
+    "icon": "Briefcase",
+    "description": "Gestão integrada de processos industriais, logística, pesquisa operacional, finanças e gestão da qualidade.",
+    "coordinator": "Prof. Dércio Santiago da Silva Júnior",
+    "contactEmail": "producao@eng.uerj.br",
+    "courses": [
+        "Graduação em Engenharia de Produção (Matriz Nova 2026)"
+    ],
+    "laboratories": [
+        "Laboratório de Simulação de Processos",
+        "Lab. de Engenharia de Fatores Humanos"
+    ]
+}

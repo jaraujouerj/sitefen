@@ -1,0 +1,13 @@
+{
+    "id": "desc",
+    "name": "Engenharia de Sistemas e Computação",
+    "code": "DESC",
+    "icon": "Sun",
+    "description": "Primeiro curso de engenharia de computação do Brasil.",
+    "coordinator": "",
+    "contactEmail": "desc@eng.uerj.br",
+    "courses": [
+        "Graduação em Engenharia de Computação"
+    ],
+    "laboratories": []
+}

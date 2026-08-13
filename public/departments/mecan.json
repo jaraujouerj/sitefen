@@ -1,0 +1,17 @@
+{
+    "id": "mecanica",
+    "name": "Engenharia Mecânica",
+    "code": "MECAN",
+    "icon": "Cog",
+    "description": "Desenvolvimento de projetos térmicos, fluidores, sistemas mecânicos, manufatura e integridade estrutural.",
+    "coordinator": "Prof. Carlos Cezar de La Plata",
+    "contactEmail": "mecanica@eng.uerj.br",
+    "courses": [
+        "Graduação em Engenharia Mecânica"
+    ],
+    "laboratories": [
+        "Laboratório de Termociências",
+        "Lab. de Ensaios Não Destrutivos",
+        "Lab. de CAD/CAM"
+    ]
+}

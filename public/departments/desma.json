@@ -1,0 +1,16 @@
+{
+    "id": "desma",
+    "name": "Engenharia Sanitária e Meio-Ambiente",
+    "code": "DESMA",
+    "icon": "Leaf",
+    "description": "Foco em saneamento básico, tratamento de águas e efluentes, contaminação ambiental e sustentabilidade.",
+    "coordinator": "Profa. Daniele Maia Bila",
+    "contactEmail": "desma@eng.uerj.br",
+    "courses": [
+        "Graduação em Engenharia Ambiental e Sanitária"
+    ],
+    "laboratories": [
+        "Laboratório de Análise de Águas e Efluentes (LAE)",
+        "Lab. de Microbiologia Ambiental"
+    ]
+}

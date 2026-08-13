@@ -1,0 +1,16 @@
+{
+    "id": "carto",
+    "name": "Engenharia de Engenharia Cartográfica",
+    "code": "CARTO",
+    "icon": "Map",
+    "description": "Ciência da geoinformação, fotogrametria, sensoriamento remoto por satélites e drones, e cartografia web.",
+    "coordinator": "Prof. Luiz Henrique Castiglione / Prof. João Bosco",
+    "contactEmail": "cartografica@eng.uerj.br",
+    "courses": [
+        "Graduação em Engenharia Cartográfica"
+    ],
+    "laboratories": [
+        "Laboratório de Sensoriamento Remoto",
+        "Lab. de Fotogrametria Digital"
+    ]
+}

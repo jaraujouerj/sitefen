@@ -1,0 +1,19 @@
+{
+    "id": "detel",
+    "name": "Engenharia Eletrônica e Telecomunicações",
+    "code": "DETEL",
+    "icon": "Zap",
+    "description": "Atuação em Eletrônica, telecomunicações, sistemas de controle e automação",
+    "coordinator": "Prof. Michel Pompeu Tcheou",
+    "contactEmail": "eletronica@eng.uerj.br",
+    "courses": [
+        "Graduação em Engenharia Eletrônica",
+        "Ênfase em Telecomunicações",
+        "Ênfase em Sistemas de Potência"
+    ],
+    "laboratories": [
+        "LARISA - Redes Industriais e Automação",
+        "Laboratório de Processamento de Sinais",
+        "Lab. de Alta Tensão"
+    ]
+}
